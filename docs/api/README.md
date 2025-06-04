@@ -14,6 +14,7 @@ Subject and content management endpoints.
 CIMA objective test exam generation and management.
 
 - [Generate Exam Optimised](./cima-objective-tests/generate-exam-optimised.md) - Optimized exam generation endpoint
+- [Start Exam Attempt](./cima-objective-tests/start-exam-attempt.md) - Start a new exam attempt with 3-attempt limit validation
 
 ### 04_cima_case_study_exams
 CIMA case study exam endpoints.
